@@ -188,18 +188,6 @@ This setup provides:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-* Dashboard
-* Task management
-* Shared sections
-* User profiles
-* Task assignment
-
----
-
 # 🚀 Future Improvements
 
 * Real-time collaboration (WebSockets)
@@ -207,11 +195,3 @@ Add screenshots here:
 * Activity logs
 * Kanban board
 * Progressive Web App (PWA)
-
----
-
-# 👨‍💻 Author
-
-**Axel Alejandro Reséndiz Ávila**
-
-Software Engineering student focused on building scalable full-stack applications and modern web platforms.
