@@ -1,6 +1,12 @@
 # 📝 ToDoList
 
 ### Modern Collaborative Task Management Platform
+![Java](https://img.shields.io/badge/Java-17-red)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 
 TodoList is a **full-stack task management platform** designed for organizing personal and collaborative workflows with a modern UI and secure architecture.
 
