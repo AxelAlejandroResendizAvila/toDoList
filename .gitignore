@@ -18,4 +18,9 @@ Frontend/.env
 
 # Miscellaneous
 bulk_data.json
+generate_bulk_json.py
 temp_footer.txt
+boot.log
+error.log
+login.json
+debug.log
