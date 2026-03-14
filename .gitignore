@@ -1,0 +1,21 @@
+# Backend
+Backend/target/
+Backend/.mvn/wrapper/maven-wrapper.jar
+Backend/*.log
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/dist-ssr/
+Frontend/*.local
+Frontend/.env
+
+# OS/Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Miscellaneous
+bulk_data.json
+temp_footer.txt
