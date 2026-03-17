@@ -135,7 +135,7 @@ Key decisions:
 ## 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/todolist.git
+git clone https://github.com/AxelAlejandroResendizAvila/toDoList
 cd todolist
 ```
 
